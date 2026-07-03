@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sreejith M</h1>
 
 <h3 align="center">
-DevOps Engineer | Platform Engineer | Big Data Engineer | Cloudera CDP Administrator | Kubernetes | AWS | Terraform | VMware | Red Hat | Snowflake
+DevOps Engineer | Platform Engineer | Big Data Engineer | Kubernetes | AWS | Terraform | VMware | Red Hat | Snowflake
 </h3>
 
 <p align="center">
