@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sreejith M</h1>
 
 <h3 align="center">
-DevOps Engineer | Kubernetes | AWS | Terraform | Rancher | CI/CD | Snowflake | Platform Engineering
+DevOps Engineer | Platform Engineer | Big Data Engineer | Cloudera CDP Administrator | Kubernetes | AWS | Terraform | VMware | Red Hat | Snowflake
 </h3>
 
 <p align="center">
-Helping organizations build scalable, secure and highly available cloud-native platforms.
+Building scalable, secure, and highly available cloud-native platforms, Kubernetes infrastructure, enterprise Big Data ecosystems, and Infrastructure as Code solutions.
 </p>
 
 <p align="center">
@@ -15,11 +15,11 @@ Helping organizations build scalable, secure and highly available cloud-native p
 </a>
 
 <a href="https://www.linkedin.com/in/sreejithmtech/">
-<img src="https://img.shields.io/badge/LinkedIn-Sreejith_M-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Sreejith_M-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://openhelp.net">
-<img src="https://img.shields.io/badge/Website-openhelp.net-green?style=for-the-badge&logo=google-chrome"/>
+<img src="https://img.shields.io/badge/Website-openhelp.net-00C853?style=for-the-badge&logo=google-chrome"/>
 </a>
 
 </p>
@@ -28,131 +28,282 @@ Helping organizations build scalable, secure and highly available cloud-native p
 
 # 🚀 About Me
 
-- 🔭 DevOps Engineer with experience building Kubernetes platforms from scratch
-- ☁️ Hands-on with AWS, Azure and On-Prem Infrastructure
-- ⚙️ CI/CD using Jenkins, GitHub Actions, GitLab CI and ArgoCD
-- ☸️ Kubernetes Administrator (kubeadm, Rancher, Helm, KubeVirt)
-- 🐳 Docker and Container Platform Specialist
-- 📦 Infrastructure as Code using Terraform and Ansible
-- 📊 Monitoring with Prometheus, Grafana, ELK and Loki
-- 🔐 Experience with FreeIPA, LDAP, RBAC and Kubernetes Security
-- ❄️ Working with Snowflake Data Cloud
-- 📖 Passionate about automation, documentation and knowledge sharing
+- 🔭 DevOps & Platform Engineer with experience designing and deploying highly available Kubernetes platforms from scratch.
+- ☸️ Kubernetes Administrator with hands-on experience in kubeadm, Rancher, Helm, KubeVirt, NGINX Ingress and Containerd.
+- ☁️ Experienced with AWS, Microsoft Azure and enterprise On-Prem infrastructure.
+- 📦 Infrastructure as Code using Terraform and configuration management with Ansible.
+- ⚙️ CI/CD automation using Jenkins, GitHub Actions, GitLab CI and ArgoCD.
+- 🐳 Docker and private container registry management using Nexus Repository.
+- 🖥️ VMware Administrator with experience managing ESXi, vCenter and enterprise virtualization platforms.
+- 🎩 Linux Administrator with strong experience in Red Hat Enterprise Linux, CentOS, Ubuntu, Debian and AlmaLinux.
+- 📊 Big Data Engineer with extensive production experience administering Cloudera CDP/CDH environments.
+- 🗄️ Hands-on with Hadoop, HDFS, YARN, Hive, Impala, Spark, Kafka, Oozie, Ranger, Hue, HBase, ZooKeeper and Kerberos.
+- 🔐 Experienced in FreeIPA, LDAP, Active Directory Integration, RBAC, SSL Certificates and Kubernetes Security.
+- ❄️ Experience working with Snowflake Data Cloud and modern Data Engineering solutions.
+- 📈 Monitoring using Prometheus, Grafana, ELK Stack, Kibana, Loki and Alertmanager.
+- 📖 Passionate about automation, documentation and sharing knowledge.
 
 ---
 
-# 🌐 Connect with Me
+# 🌐 Connect With Me
 
 | Platform | Link |
-|----------|------|
+|-----------|------|
 | 🌍 Website | https://openhelp.net |
 | 💼 LinkedIn | https://www.linkedin.com/in/sreejithmtech/ |
 | 💻 GitHub | https://github.com/openhelpdevops |
 
 ---
 
-# 🛠 Tech Stack
-
-## ☁️ Cloud
+# ☁️ Cloud Platforms
 
 <p>
 <img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
 </p>
 
+### Experience
+
+- Amazon Web Services (AWS)
+- Microsoft Azure
+- Google Cloud (Basic)
+- Hybrid Cloud
+- On-Prem Infrastructure
+
 ---
 
-## ☸️ Containers & Kubernetes
+# ☸️ Kubernetes & Containers
 
 <p>
 <img src="https://skillicons.dev/icons?i=kubernetes,docker" />
 </p>
 
-**Also Experienced In**
+### Technologies
 
+- Kubernetes
 - Rancher
 - Helm
 - KubeVirt
+- Docker
+- Containerd
 - NGINX Ingress
-- Istio (Learning)
+- ArgoCD
+- GitOps
+- Calico
+- MetalLB
+- Cert Manager
 
 ---
 
-## ⚙️ DevOps
+# ⚙️ DevOps & Automation
 
 <p>
 <img src="https://skillicons.dev/icons?i=terraform,ansible,jenkins,git,github,gitlab,bash" />
 </p>
 
+### Tools
+
+- Terraform
+- Ansible
+- Jenkins
+- GitHub Actions
+- GitLab CI
+- Git
+- GitHub
+- Nexus Repository
+- SonarQube
+- Bash
+- Shell Scripting
+
 ---
 
-## 💻 Programming & Scripting
+# 📊 Big Data & Data Engineering
+
+## Cloudera Platform
+
+- Cloudera CDP
+- Cloudera CDH
+- Cloudera Manager
+- Hadoop Administration
+- Cluster Installation
+- Cluster Upgrades
+- High Availability
+- Disaster Recovery
+
+### Hadoop Ecosystem
+
+- Hadoop (HDFS)
+- YARN
+- Hive
+- Impala
+- Spark
+- Kafka
+- Oozie
+- Ranger
+- Atlas
+- Hue
+- ZooKeeper
+- HBase
+- Kerberos
+- FreeIPA
+
+---
+
+# ❄️ Snowflake
+
+- Snowflake Administration
+- Warehouses
+- Databases
+- Roles & RBAC
+- External Tables
+- Internal & External Stages
+- Snowpipe
+- Streams & Tasks
+- Data Loading
+- Performance Optimization
+
+---
+
+# 💻 Programming & Scripting
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,bash,powershell" />
 </p>
 
+### Languages
+
+- Python
+- Bash
+- PowerShell
+- SQL
+
 ---
 
-## 🗄 Databases
+# 🗄 Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
 
-Also
+### Also Experienced With
 
-- Snowflake
-- Oracle
+- Oracle Database
 - Redis
+- Snowflake
 
 ---
 
-## 📊 Monitoring & Logging
+# 📊 Monitoring & Logging
 
 - Prometheus
 - Grafana
 - ELK Stack
+- Elasticsearch
+- Kibana
+- Logstash
 - Loki
 - Alertmanager
-- Kibana
+- Zabbix
+- Nagios
+- PRTG
 
 ---
 
-## 💻 Operating Systems
+# 💻 Operating Systems
 
-- Ubuntu
 - Red Hat Enterprise Linux
 - CentOS
+- Ubuntu
 - AlmaLinux
 - Debian
 - Windows Server
 
 ---
 
-# 🔥 DevOps Skills
+# 🖥 Virtualization
+
+- VMware ESXi
+- VMware vCenter
+- VMware Workstation
+- KVM
+- Xen
+- KubeVirt
+
+---
+
+# 🔥 Core Skills
+
+## Kubernetes
 
 - Kubernetes Cluster Installation
-- Rancher Multi-cluster Management
-- High Availability Kubernetes
-- Container Runtime (containerd)
-- Helm Charts
+- High Availability Clusters
+- Rancher Multi-Cluster Management
+- Helm
 - GitOps
 - ArgoCD
+- RBAC
+- Network Policies
+- NGINX Ingress
+- Containerd
+- KubeVirt
+
+## DevOps
+
 - CI/CD Pipelines
+- Jenkins
+- GitHub Actions
+- GitLab CI
+- Docker
 - Nexus Repository
 - SonarQube
-- Docker Registry
-- AWS Networking
+- Terraform
+- Ansible
+- Shell Scripting
+
+## Cloud
+
+- AWS
+- Azure
+- Hybrid Cloud
 - Infrastructure Automation
-- Linux Administration
-- Bash Automation
-- Monitoring & Alerting
+
+## Linux
+
+- Red Hat Enterprise Linux
+- Ubuntu
+- CentOS
+- Server Administration
+- Storage
+- Networking
+- Security Hardening
+
+## Big Data
+
+- Cloudera CDP Administration
+- Hadoop Administration
+- HDFS
+- Hive
+- Spark
+- Impala
+- Kafka
+- Ranger
+- Kerberos
+- FreeIPA
+- Oozie
+- ZooKeeper
+- HBase
+- Cluster Upgrades
+- Cluster Backup & Restore
 - Disaster Recovery
-- Backup & Restore
-- Kubernetes Security
-- RBAC
-- FreeIPA Integration
-- LDAP Authentication
+
+## Monitoring
+
+- Prometheus
+- Grafana
+- ELK
+- Kibana
+- Loki
+- Zabbix
+- Nagios
 
 ---
 
@@ -188,20 +339,18 @@ Also
 
 # 📫 Reach Me
 
-📧 Website: https://openhelp.net
+🌍 **Website:** https://openhelp.net
 
-💼 LinkedIn:
+💼 **LinkedIn:** https://www.linkedin.com/in/sreejithmtech/
 
-https://www.linkedin.com/in/sreejithmtech/
-
-🌍 GitHub:
-
-https://github.com/openhelpdevops
+💻 **GitHub:** https://github.com/openhelpdevops
 
 ---
 
 <h3 align="center">
 
-⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my profile! ⭐
+
+Happy Learning • Happy Automating 🚀
 
 </h3>
